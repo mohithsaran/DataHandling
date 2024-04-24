@@ -1,0 +1,32 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language...",
+        "difficulty_level": "Beginner",
+        "tags": ["Python", "Programming"]
+    },
+    {
+        "question": "What is SQL?",
+        "answer": "SQL (Structured Query Language) is a domain-specific language...",
+        "difficulty_level": "Intermediate",
+        "tags": ["SQL", "Database"]
+    },
+    {
+        "question": "What is a variable?",
+        "answer": "A variable is a container for storing data values...",
+        "difficulty_level": "Beginner",
+        "tags": ["Programming", "Fundamentals"]
+    },
+    {
+        "question": "What is a primary key?",
+        "answer": "A primary key is a unique identifier for each record in a database table...",
+        "difficulty_level": "Intermediate",
+        "tags": ["Database", "SQL"]
+    },
+    {
+        "question": "What is recursion?",
+        "answer": "Recursion is a programming technique where a function calls itself...",
+        "difficulty_level": "Advanced",
+        "tags": ["Programming", "Algorithms"]
+    }
+]
